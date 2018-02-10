@@ -1,5 +1,5 @@
 # StackOverflow-Spark
-Analysis of stackoverflow users data with Spark
+Analysis of StackOverflow users data with Apache Spark
 
 ## Setup ##
 
