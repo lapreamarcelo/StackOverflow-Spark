@@ -1,8 +1,6 @@
 # StackOverflow-Spark
 Analysis of stackoverflow users data with Spark
 
-# StackOverflow with Apache Spark #
-
 ## Setup ##
 
 - Run `sbt package` 
